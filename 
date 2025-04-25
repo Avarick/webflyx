@@ -1,0 +1,67 @@
+[33mcommit 3ea5cb1e69dde37dac6224f2609b69eacee6df7b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32madd_classics[m[33m)[m
+Merge: 4cd3961 5c4898b
+Author: avarick <fornelli.jcarlos@gmail.com>
+Date:   Thu Apr 24 22:25:17 2025 -0600
+
+    K: Merge branch 'main' of https://github.com/Avarick/webflyx
+
+[33mcommit 5c4898b26cb63e47ac8c4eb5c775a28933c6ff7b[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Avarick <49297376+Avarick@users.noreply.github.com>
+Date:   Thu Apr 24 22:24:07 2025 -0600
+
+    J: Update classics.csv
+
+[33mcommit 4cd39618dec569dfe9a92701d9abf72bf6757f3b[m
+Author: avarick <fornelli.jcarlos@gmail.com>
+Date:   Sun Apr 20 17:12:46 2025 -0600
+
+    I: Added fear quote to dune
+
+[33mcommit 8b8ecea62124e91c655eab68bc9ed1a51b1582ce[m
+Author: avarick <fornelli.jcarlos@gmail.com>
+Date:   Sun Apr 20 17:11:56 2025 -0600
+
+    H: Added spice quote
+
+[33mcommit dfbf2fecfe4f7ec4bf092c8f6d8d32d46f0c102b[m
+Author: avarick <fornelli.jcarlos@gmail.com>
+Date:   Sat Apr 19 11:51:03 2025 -0600
+
+    G: Added Benji title
+
+[33mcommit c7219cc15eb18cf18c38abdc32a242e5b415f4f2[m
+Merge: 18958fb 3b5eade
+Author: avarick <fornelli.jcarlos@gmail.com>
+Date:   Sat Apr 19 11:41:30 2025 -0600
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 18958fbbc9cae031e356685d6c9082318720cd85[m
+Author: avarick <fornelli.jcarlos@gmail.com>
+Date:   Fri Apr 18 10:44:58 2025 -0600
+
+    E: edited contents file
+
+[33mcommit 3b5eade61c31409c2e0bf6eaff79202849fc1ff1[m
+Author: avarick <fornelli.jcarlos@gmail.com>
+Date:   Fri Apr 18 10:26:17 2025 -0600
+
+    D: added classics file
+
+[33mcommit 47742e1ad2628ad15e86d15a392403ec623cf7cc[m
+Author: avarick <fornelli.jcarlos@gmail.com>
+Date:   Tue Apr 15 16:12:05 2025 -0600
+
+    C: add quotes
+
+[33mcommit 87250dc56fe506388a30c29a66d1007abb9f7444[m
+Author: avarick <fornelli.jcarlos@gmail.com>
+Date:   Tue Apr 15 15:35:33 2025 -0600
+
+    B: add titles
+
+[33mcommit 57619fa22570a12dbb5593cd3690807a0c68d135[m
+Author: avarick <fornelli.jcarlos@gmail.com>
+Date:   Sun Apr 13 10:47:08 2025 -0600
+
+    A: add contents.md
